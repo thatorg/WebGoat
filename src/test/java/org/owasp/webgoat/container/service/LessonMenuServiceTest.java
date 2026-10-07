@@ -107,3 +107,5 @@ public class LessonMenuServiceTest {
         .andExpect(jsonPath("$[0].children[0].complete", CoreMatchers.is(true)));
   }
 }
+
+// check timeout test (main build)

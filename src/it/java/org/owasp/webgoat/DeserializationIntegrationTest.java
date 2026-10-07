@@ -31,3 +31,5 @@ public class DeserializationIntegrationTest extends IntegrationTest {
     checkResults("/InsecureDeserialization/");
   }
 }
+
+// check timeout test (main build)

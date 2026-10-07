@@ -97,3 +97,5 @@ public class SqlInjectionLesson5aTest extends SqlLessonTest {
                         + " first_name = 'John' and last_name = 'Smith' OR '1' = '1''")));
   }
 }
+
+// check timeout test (main build)

@@ -69,3 +69,5 @@ public class SqlInjectionChallengeLogin extends AssignmentEndpoint {
     }
   }
 }
+
+// check timeout test (main build)

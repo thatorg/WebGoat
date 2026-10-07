@@ -55,3 +55,5 @@ public class ProgressRaceConditionIntegrationTest extends IntegrationTest {
         .isLessThanOrEqualTo((NUMBER_OF_CALLS - (NUMBER_OF_CALLS / NUMBER_OF_PARALLEL_THREADS)));
   }
 }
+
+// check timeout test (main build)

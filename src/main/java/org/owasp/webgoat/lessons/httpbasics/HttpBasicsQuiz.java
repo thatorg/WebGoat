@@ -55,3 +55,5 @@ public class HttpBasicsQuiz extends AssignmentEndpoint {
     return failed(this).build();
   }
 }
+
+// check timeout test (main build)

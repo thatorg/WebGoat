@@ -38,3 +38,5 @@ public class BypassRestrictions extends Lesson {
     return "bypass-restrictions.title";
   }
 }
+
+// check timeout test (main build)

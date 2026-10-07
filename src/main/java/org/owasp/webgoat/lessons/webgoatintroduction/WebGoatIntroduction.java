@@ -46,3 +46,5 @@ public class WebGoatIntroduction extends Lesson {
     return "webgoat.title";
   }
 }
+
+// check timeout test (main build)

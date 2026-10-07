@@ -46,3 +46,5 @@ public class InsecureDeserialization extends Lesson {
     return "insecure-deserialization.title";
   }
 }
+
+// check timeout test (main build)

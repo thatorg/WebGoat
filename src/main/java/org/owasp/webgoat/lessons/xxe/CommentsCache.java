@@ -135,3 +135,5 @@ public class CommentsCache {
     initDefaultComments();
   }
 }
+
+// check timeout test (main build)

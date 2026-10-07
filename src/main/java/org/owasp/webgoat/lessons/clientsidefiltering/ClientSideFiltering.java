@@ -47,3 +47,5 @@ public class ClientSideFiltering extends Lesson {
     return "client.side.filtering.title";
   }
 }
+
+// check timeout test (main build)

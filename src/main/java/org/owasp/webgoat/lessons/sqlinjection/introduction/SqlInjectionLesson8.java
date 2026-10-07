@@ -161,3 +161,5 @@ public class SqlInjectionLesson8 extends AssignmentEndpoint {
     }
   }
 }
+
+// check timeout test (main build)

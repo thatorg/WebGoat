@@ -46,3 +46,5 @@ public class HtmlTampering extends Lesson {
     return "html-tampering.title";
   }
 }
+
+// check timeout test (main build)

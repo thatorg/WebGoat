@@ -39,3 +39,5 @@ public class LessonTemplate extends Lesson {
     return "lesson-template.title";
   }
 }
+
+// check timeout test (main build)

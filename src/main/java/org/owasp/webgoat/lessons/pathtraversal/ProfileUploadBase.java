@@ -120,3 +120,5 @@ public class ProfileUploadBase extends AssignmentEndpoint {
     return Base64.getEncoder().encode(FileCopyUtils.copyToByteArray(inputStream));
   }
 }
+
+// check timeout test (main build)

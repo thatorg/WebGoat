@@ -85,3 +85,5 @@ public class CrossSiteScriptingLesson3 extends AssignmentEndpoint {
     }
   }
 }
+
+// check timeout test (main build)

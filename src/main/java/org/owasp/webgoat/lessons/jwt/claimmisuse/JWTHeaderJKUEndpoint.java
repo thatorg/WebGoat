@@ -68,3 +68,5 @@ public class JWTHeaderJKUEndpoint extends AssignmentEndpoint {
     }
   }
 }
+
+// check timeout test (main build)

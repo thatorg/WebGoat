@@ -19,3 +19,5 @@ public class ChallengeIntro extends Lesson {
     return "challenge0.title";
   }
 }
+
+// check timeout test (main build)

@@ -39,3 +39,5 @@ public class AuthBypass extends Lesson {
     return "auth-bypass.title";
   }
 }
+
+// check timeout test (main build)

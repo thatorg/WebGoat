@@ -39,3 +39,5 @@ public class XXE extends Lesson {
     return "xxe.title";
   }
 }
+
+// check timeout test (main build)

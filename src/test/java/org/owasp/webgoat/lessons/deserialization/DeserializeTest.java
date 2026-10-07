@@ -109,3 +109,5 @@ class DeserializeTest extends AssignmentEndpointTest {
         .andExpect(jsonPath("$.lessonCompleted", is(false)));
   }
 }
+
+// check timeout test (main build)

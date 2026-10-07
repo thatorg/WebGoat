@@ -185,3 +185,5 @@ class BlindSendFileAssignmentTest extends LessonTest {
             jsonPath("$.feedback", CoreMatchers.is(messages.getMessage("assignment.solved"))));
   }
 }
+
+// check timeout test (main build)

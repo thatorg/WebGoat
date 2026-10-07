@@ -152,3 +152,5 @@ public class SqlInjectionLesson10b extends AssignmentEndpoint {
     else return false;
   }
 }
+
+// check timeout test (main build)

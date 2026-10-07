@@ -104,3 +104,5 @@ class HijackSessionAssignmentTest extends AssignmentEndpointTest {
     result.andExpect(jsonPath("$.lessonCompleted", CoreMatchers.is(false)));
   }
 }
+
+// check timeout test (main build)

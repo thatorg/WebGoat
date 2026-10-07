@@ -63,3 +63,5 @@ public enum Category {
     return getName();
   }
 }
+
+// check timeout test (main build)

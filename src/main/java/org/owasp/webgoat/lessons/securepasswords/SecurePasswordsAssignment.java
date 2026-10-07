@@ -116,3 +116,5 @@ public class SecurePasswordsAssignment extends AssignmentEndpoint {
         + " seconds");
   }
 }
+
+// check timeout test (main build)

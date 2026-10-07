@@ -101,3 +101,5 @@ class ResetLinkAssignmentTest extends LessonTest {
         .isNotNull();
   }
 }
+
+// check timeout test (main build)

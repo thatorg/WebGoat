@@ -77,3 +77,5 @@ class MissingFunctionACUsersTest extends LessonTest {
         .andExpect(jsonPath("$.size()", is(4)));
   }
 }
+
+// check timeout test (main build)

@@ -88,3 +88,5 @@ public class MissingFunctionACHiddenMenusTest extends AssignmentEndpointTest {
         .andExpect(jsonPath("$.lessonCompleted", CoreMatchers.is(false)));
   }
 }
+
+// check timeout test (main build)

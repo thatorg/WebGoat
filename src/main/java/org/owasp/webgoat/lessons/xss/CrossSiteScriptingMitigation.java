@@ -39,3 +39,5 @@ public class CrossSiteScriptingMitigation extends Lesson {
     return "6.xss-mitigation.title";
   }
 }
+
+// check timeout test (main build)

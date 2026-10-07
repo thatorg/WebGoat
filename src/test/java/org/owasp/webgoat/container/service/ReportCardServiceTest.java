@@ -66,3 +66,5 @@ public class ReportCardServiceTest {
         .andExpect(jsonPath("$.numberOfAssignmentsSolved", is(0)));
   }
 }
+
+// check timeout test (main build)

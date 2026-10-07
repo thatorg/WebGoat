@@ -228,3 +228,5 @@ public class LabelAndHintIntegrationTest extends IntegrationTest {
     return jsonPath.getList("hint");
   }
 }
+
+// check timeout test (main build)

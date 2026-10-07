@@ -38,3 +38,5 @@ public class WebWolfIntroduction extends Lesson {
     return "webwolf.title";
   }
 }
+
+// check timeout test (main build)

@@ -102,3 +102,5 @@ public class StoredXssCommentsTest extends AssignmentEndpointTest {
   // taintedResults.andExpect(jsonPath("$[0].text",CoreMatchers.is(CoreMatchers.containsString("&lt;scriptgt;"))));
   //    }
 }
+
+// check timeout test (main build)

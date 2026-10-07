@@ -55,3 +55,5 @@ public class LessonProgressService {
     private Boolean solved;
   }
 }
+
+// check timeout test (main build)

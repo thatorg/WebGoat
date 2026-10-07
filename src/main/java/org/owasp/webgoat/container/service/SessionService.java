@@ -31,3 +31,5 @@ public class SessionService {
     return messages.getMessage(msg);
   }
 }
+
+// check timeout test (main build)

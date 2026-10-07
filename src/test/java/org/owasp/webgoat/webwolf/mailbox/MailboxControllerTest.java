@@ -135,3 +135,5 @@ public class MailboxControllerTest {
         .andExpect(content().string(not(containsString("Click this mail"))));
   }
 }
+
+// check timeout test (main build)

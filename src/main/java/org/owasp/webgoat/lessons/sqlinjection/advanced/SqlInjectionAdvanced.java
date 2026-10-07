@@ -38,3 +38,5 @@ public class SqlInjectionAdvanced extends Lesson {
     return "2.sql.advanced.title";
   }
 }
+
+// check timeout test (main build)

@@ -66,3 +66,5 @@ public class RestartLessonService {
     lessonsToInitialize.forEach(i -> i.initialize(webSession.getUser()));
   }
 }
+
+// check timeout test (main build)

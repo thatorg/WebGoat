@@ -47,3 +47,5 @@ class MissingFunctionACYourHashAdminTest extends LessonTest {
         .andExpect(jsonPath("$.lessonCompleted", CoreMatchers.is(false)));
   }
 }
+
+// check timeout test (main build)

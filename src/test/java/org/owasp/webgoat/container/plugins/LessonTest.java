@@ -64,3 +64,5 @@ public abstract class LessonTest {
     flywayLessons.apply("PUBLIC").migrate();
   }
 }
+
+// check timeout test (main build)

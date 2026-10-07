@@ -40,3 +40,5 @@ class LabelDebuggerTest {
     Assertions.assertThat((ld.isEnabled())).isFalse();
   }
 }
+
+// check timeout test (main build)

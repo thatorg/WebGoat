@@ -82,3 +82,5 @@ public class ProfileUploadRetrievalTest extends LessonTest {
         .andExpect(content().string(containsString("cats" + File.separator + "8.jpg")));
   }
 }
+
+// check timeout test (main build)

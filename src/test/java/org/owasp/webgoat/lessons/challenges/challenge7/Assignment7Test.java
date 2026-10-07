@@ -97,3 +97,5 @@ public class Assignment7Test extends AssignmentEndpointTest {
     result.andExpect(content().contentType("application/zip"));
   }
 }
+
+// check timeout test (main build)

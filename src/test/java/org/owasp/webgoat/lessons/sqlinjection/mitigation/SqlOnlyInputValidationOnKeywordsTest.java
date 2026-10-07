@@ -43,3 +43,5 @@ public class SqlOnlyInputValidationOnKeywordsTest extends SqlLessonTest {
                         + " 'SMITH';\\\\\\/**\\\\\\/*\\\\\\/**\\\\\\/\\\\\\/**\\\\\\/USER_SYSTEM_DATA;--'")));
   }
 }
+
+// check timeout test (main build)

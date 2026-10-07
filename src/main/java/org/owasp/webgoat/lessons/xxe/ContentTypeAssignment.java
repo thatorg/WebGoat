@@ -97,3 +97,5 @@ public class ContentTypeAssignment extends AssignmentEndpoint {
     return success;
   }
 }
+
+// check timeout test (main build)

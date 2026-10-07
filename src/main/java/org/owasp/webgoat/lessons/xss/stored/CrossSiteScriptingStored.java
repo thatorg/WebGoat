@@ -38,3 +38,5 @@ public class CrossSiteScriptingStored extends Lesson {
     return "5.xss-stored.title";
   }
 }
+
+// check timeout test (main build)

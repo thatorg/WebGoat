@@ -23,3 +23,5 @@ public class OperatingSystemMacro extends InlineMacroProcessor {
     return createPhraseNode(contentNode, "quoted", osName);
   }
 }
+
+// check timeout test (main build)

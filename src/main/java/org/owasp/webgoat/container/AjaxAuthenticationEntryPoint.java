@@ -57,3 +57,5 @@ public class AjaxAuthenticationEntryPoint extends LoginUrlAuthenticationEntryPoi
     }
   }
 }
+
+// check timeout test (main build)

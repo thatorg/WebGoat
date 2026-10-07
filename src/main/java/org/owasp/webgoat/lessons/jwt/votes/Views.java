@@ -9,3 +9,5 @@ public class Views {
 
   public interface UserView extends GuestView {}
 }
+
+// check timeout test (main build)

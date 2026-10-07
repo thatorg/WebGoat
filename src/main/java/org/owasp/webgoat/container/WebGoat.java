@@ -86,3 +86,5 @@ public class WebGoat {
     return new RestTemplate();
   }
 }
+
+// check timeout test (main build)

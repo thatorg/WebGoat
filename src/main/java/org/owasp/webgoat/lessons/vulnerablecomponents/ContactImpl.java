@@ -32,3 +32,5 @@ public class ContactImpl implements Contact {
   private String lastName;
   private String email;
 }
+
+// check timeout test (main build)

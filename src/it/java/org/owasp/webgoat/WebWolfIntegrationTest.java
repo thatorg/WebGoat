@@ -75,3 +75,5 @@ public class WebWolfIntegrationTest extends IntegrationTest {
     checkResults("/WebWolf");
   }
 }
+
+// check timeout test (main build)

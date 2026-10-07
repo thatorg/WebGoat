@@ -20,3 +20,5 @@ public class JWTDecodeEndpoint extends AssignmentEndpoint {
     }
   }
 }
+
+// check timeout test (main build)

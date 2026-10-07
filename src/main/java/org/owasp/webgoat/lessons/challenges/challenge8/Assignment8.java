@@ -74,3 +74,5 @@ public class Assignment8 extends AssignmentEndpoint {
     throw new IllegalStateException("Should never be called, challenge specific method");
   }
 }
+
+// check timeout test (main build)

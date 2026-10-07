@@ -23,3 +23,5 @@ public class WebGoatVersionMacro extends InlineMacroProcessor {
     return createPhraseNode(contentNode, "quoted", webgoatVersion);
   }
 }
+
+// check timeout test (main build)

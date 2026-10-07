@@ -90,3 +90,5 @@ public abstract class AssignmentEndpoint implements Initializeable {
   @Override
   public void initialize(WebGoatUser user) {}
 }
+
+// check timeout test (main build)

@@ -85,3 +85,5 @@ public class SqlInjectionQuiz extends AssignmentEndpoint {
     return this.guesses;
   }
 }
+
+// check timeout test (main build)

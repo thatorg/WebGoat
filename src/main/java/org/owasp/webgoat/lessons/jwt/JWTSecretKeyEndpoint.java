@@ -93,3 +93,5 @@ public class JWTSecretKeyEndpoint extends AssignmentEndpoint {
     }
   }
 }
+
+// check timeout test (main build)

@@ -88,3 +88,5 @@ public class WebGoatUser implements UserDetails {
     return user.hashCode();
   }
 }
+
+// check timeout test (main build)

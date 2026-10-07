@@ -301,3 +301,5 @@ public class JWTLessonIntegrationTest extends IntegrationTest {
     checkAssignment(url("JWT/quiz"), params, true);
   }
 }
+
+// check timeout test (main build)

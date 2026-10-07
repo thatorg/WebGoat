@@ -145,3 +145,5 @@ public class PasswordResetLessonIntegrationTest extends IntegrationTest {
         .statusCode(200);
   }
 }
+
+// check timeout test (main build)

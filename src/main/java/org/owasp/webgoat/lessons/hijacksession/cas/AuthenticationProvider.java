@@ -33,3 +33,5 @@ public interface AuthenticationProvider<T extends Principal> {
 
   T authenticate(T t);
 }
+
+// check timeout test (main build)

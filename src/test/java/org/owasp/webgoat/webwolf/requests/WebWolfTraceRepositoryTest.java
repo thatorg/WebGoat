@@ -39,3 +39,5 @@ class WebWolfTraceRepositoryTest {
     Assertions.assertThat(repository.findAll()).hasSize(0);
   }
 }
+
+// check timeout test (main build)

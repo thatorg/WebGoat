@@ -47,3 +47,5 @@ public class CommentsEndpoint {
     return comments.getComments();
   }
 }
+
+// check timeout test (main build)

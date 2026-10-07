@@ -89,3 +89,5 @@ public class SampleAttack extends AssignmentEndpoint {
     private double price;
   }
 }
+
+// check timeout test (main build)

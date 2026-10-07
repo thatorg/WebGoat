@@ -46,3 +46,5 @@ public class MD5Test {
         Arguments.of("a string", "3a315533c0f34762e0c45e3d4e9d525c"));
   }
 }
+
+// check timeout test (main build)

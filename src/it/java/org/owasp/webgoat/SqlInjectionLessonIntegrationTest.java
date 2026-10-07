@@ -76,3 +76,5 @@ public class SqlInjectionLessonIntegrationTest extends IntegrationTest {
     checkResults("/SqlInjection/");
   }
 }
+
+// check timeout test (main build)

@@ -21,3 +21,5 @@ public class Challenge7 extends Lesson {
     return "challenge7.title";
   }
 }
+
+// check timeout test (main build)

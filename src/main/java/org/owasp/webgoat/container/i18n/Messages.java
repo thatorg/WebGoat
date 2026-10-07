@@ -57,3 +57,5 @@ public class Messages extends ReloadableResourceBundleMessageSource {
     return super.getMessage(code, args, defaultValue, language.getLocale());
   }
 }
+
+// check timeout test (main build)

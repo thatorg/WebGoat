@@ -43,3 +43,5 @@ public class SecurePasswords extends Lesson {
     return "secure-passwords.title";
   }
 }
+
+// check timeout test (main build)

@@ -271,3 +271,5 @@ public abstract class IntegrationTest {
         .statusCode(HttpStatus.ACCEPTED.value());
   }
 }
+
+// check timeout test (main build)

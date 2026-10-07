@@ -43,3 +43,5 @@ public class Challenge5 extends Lesson {
     return "challenge5.title";
   }
 }
+
+// check timeout test (main build)

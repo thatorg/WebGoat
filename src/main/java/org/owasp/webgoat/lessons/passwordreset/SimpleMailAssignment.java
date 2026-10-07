@@ -115,3 +115,5 @@ public class SimpleMailAssignment extends AssignmentEndpoint {
     }
   }
 }
+
+// check timeout test (main build)

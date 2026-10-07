@@ -48,3 +48,5 @@ public class ChromeDevToolsTest extends LessonTest {
         .andExpect(jsonPath("$.lessonCompleted", Matchers.is(false)));
   }
 }
+
+// check timeout test (main build)

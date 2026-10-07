@@ -60,3 +60,5 @@ public class Authentication implements Principal {
     this.id = id;
   }
 }
+
+// check timeout test (main build)

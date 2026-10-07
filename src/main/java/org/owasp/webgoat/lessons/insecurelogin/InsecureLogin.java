@@ -46,3 +46,5 @@ public class InsecureLogin extends Lesson {
     return "insecure-login.title";
   }
 }
+
+// check timeout test (main build)

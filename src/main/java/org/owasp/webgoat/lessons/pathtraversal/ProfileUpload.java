@@ -45,3 +45,5 @@ public class ProfileUpload extends ProfileUploadBase {
     return super.getProfilePicture();
   }
 }
+
+// check timeout test (main build)

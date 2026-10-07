@@ -83,3 +83,5 @@ class AccessControlIntegrationTest extends IntegrationTest {
     checkAssignment(url("access-control/hidden-menu"), params, true);
   }
 }
+
+// check timeout test (main build)

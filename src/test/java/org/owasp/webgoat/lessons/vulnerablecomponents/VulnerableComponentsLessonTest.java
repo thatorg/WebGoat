@@ -81,3 +81,5 @@ public class VulnerableComponentsLessonTest {
     assertThat(e.getCause().getMessage().contains("START_DOCUMENT")).isTrue();
   }
 }
+
+// check timeout test (main build)

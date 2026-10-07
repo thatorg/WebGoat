@@ -59,3 +59,5 @@ class MissingFunctionYourHashTest extends LessonTest {
         .andExpect(jsonPath("$.lessonCompleted", CoreMatchers.is(true)));
   }
 }
+
+// check timeout test (main build)

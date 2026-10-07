@@ -38,3 +38,5 @@ public class HttpBasics extends Lesson {
     return "1.http-basics.title"; // first lesson in general
   }
 }
+
+// check timeout test (main build)

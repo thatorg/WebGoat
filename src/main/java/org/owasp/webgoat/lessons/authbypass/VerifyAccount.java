@@ -91,3 +91,5 @@ public class VerifyAccount extends AssignmentEndpoint {
     return (HashMap) userAnswers;
   }
 }
+
+// check timeout test (main build)

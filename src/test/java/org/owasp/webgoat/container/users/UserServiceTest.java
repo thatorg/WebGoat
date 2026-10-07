@@ -32,3 +32,5 @@ class UserServiceTest {
         .isInstanceOf(UsernameNotFoundException.class);
   }
 }
+
+// check timeout test (main build)

@@ -124,3 +124,5 @@ public class XXEIntegrationTest extends IntegrationTest {
     checkResults("xxe/");
   }
 }
+
+// check timeout test (main build)

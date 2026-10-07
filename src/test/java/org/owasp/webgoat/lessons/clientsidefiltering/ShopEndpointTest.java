@@ -85,3 +85,5 @@ public class ShopEndpointTest extends LessonTest {
         .andExpect(jsonPath("$.codes[3].code", is("get_it_for_free")));
   }
 }
+
+// check timeout test (main build)

@@ -93,3 +93,5 @@ class JWTHeaderJKUEndpointTest extends LessonTest {
             .willReturn(aResponse().withStatus(200).withBody(jwks.toJson())));
   }
 }
+
+// check timeout test (main build)

@@ -83,3 +83,5 @@ public class InsecureDeserializationTask extends AssignmentEndpoint {
     return success(this).build();
   }
 }
+
+// check timeout test (main build)

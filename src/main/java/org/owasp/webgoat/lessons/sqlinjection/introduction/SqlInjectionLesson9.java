@@ -134,3 +134,5 @@ public class SqlInjectionLesson9 extends AssignmentEndpoint {
     return statement.executeQuery(query);
   }
 }
+
+// check timeout test (main build)

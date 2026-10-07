@@ -50,3 +50,5 @@ public class SSRFTest1 extends LessonTest {
         .andExpect(jsonPath("$.lessonCompleted", is(false)));
   }
 }
+
+// check timeout test (main build)

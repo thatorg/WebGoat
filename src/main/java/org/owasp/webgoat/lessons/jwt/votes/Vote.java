@@ -81,3 +81,5 @@ public class Vote {
     return Math.round(((double) numberOfVotes / (double) totalVotes) * 4);
   }
 }
+
+// check timeout test (main build)

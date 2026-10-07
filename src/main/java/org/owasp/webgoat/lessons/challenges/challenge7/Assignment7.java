@@ -101,3 +101,5 @@ public class Assignment7 extends AssignmentEndpoint {
     return new ClassPathResource("lessons/challenges/challenge7/git.zip");
   }
 }
+
+// check timeout test (main build)

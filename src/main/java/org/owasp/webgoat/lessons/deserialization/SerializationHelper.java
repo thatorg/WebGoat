@@ -49,3 +49,5 @@ public class SerializationHelper {
     return new String(hexChars);
   }
 }
+
+// check timeout test (main build)

@@ -73,3 +73,5 @@ public class VulnerableComponentsLesson extends AssignmentEndpoint {
     return failed(this).feedback("vulnerable-components.fromXML").feedbackArgs(contact).build();
   }
 }
+
+// check timeout test (main build)

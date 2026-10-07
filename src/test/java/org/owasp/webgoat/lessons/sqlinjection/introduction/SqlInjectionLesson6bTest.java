@@ -52,3 +52,5 @@ public class SqlInjectionLesson6bTest extends SqlLessonTest {
         .andExpect(jsonPath("$.lessonCompleted", is(false)));
   }
 }
+
+// check timeout test (main build)

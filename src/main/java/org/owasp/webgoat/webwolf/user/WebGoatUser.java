@@ -80,3 +80,5 @@ public class WebGoatUser implements UserDetails {
     return this.user.isEnabled();
   }
 }
+
+// check timeout test (main build)

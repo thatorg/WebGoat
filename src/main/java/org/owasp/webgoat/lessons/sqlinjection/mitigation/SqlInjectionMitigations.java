@@ -38,3 +38,5 @@ public class SqlInjectionMitigations extends Lesson {
     return "3.sql.mitigation.title";
   }
 }
+
+// check timeout test (main build)

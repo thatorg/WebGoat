@@ -54,3 +54,5 @@ public class HammerHead {
     return new ModelAndView("redirect:" + "start.mvc" + course.getFirstLesson().getLink());
   }
 }
+
+// check timeout test (main build)

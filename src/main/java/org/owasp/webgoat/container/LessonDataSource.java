@@ -68,3 +68,5 @@ public class LessonDataSource implements DataSource {
     return originalDataSource.isWrapperFor(clazz);
   }
 }
+
+// check timeout test (main build)

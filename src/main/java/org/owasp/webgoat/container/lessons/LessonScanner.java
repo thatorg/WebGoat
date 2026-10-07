@@ -40,3 +40,5 @@ public class LessonScanner {
     return lessons.stream().map(lesson -> String.format(pattern, lesson)).toList();
   }
 }
+
+// check timeout test (main build)

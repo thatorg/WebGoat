@@ -32,3 +32,5 @@ public interface UserRepository extends JpaRepository<WebGoatUser, String> {
 
   WebGoatUser findByUsername(String username);
 }
+
+// check timeout test (main build)
