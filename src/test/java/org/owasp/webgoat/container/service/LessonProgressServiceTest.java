@@ -89,3 +89,5 @@ class LessonProgressServiceTest {
         .andExpect(jsonPath("$[0].solved", is(true)));
   }
 }
+
+// check timeout test

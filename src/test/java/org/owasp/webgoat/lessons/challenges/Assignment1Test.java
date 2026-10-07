@@ -80,3 +80,5 @@ class Assignment1Test extends AssignmentEndpointTest {
         .andExpect(jsonPath("$.lessonCompleted", CoreMatchers.is(false)));
   }
 }
+
+// check timeout test

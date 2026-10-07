@@ -284,3 +284,5 @@ public class CSRFIntegrationTest extends IntegrationTest {
         .post(url("register.mvc"));
   }
 }
+
+// check timeout test

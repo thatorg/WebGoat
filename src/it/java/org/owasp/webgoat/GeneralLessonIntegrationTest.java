@@ -208,3 +208,5 @@ public class GeneralLessonIntegrationTest extends IntegrationTest {
     checkResults("/lesson-template/");
   }
 }
+
+// check timeout test

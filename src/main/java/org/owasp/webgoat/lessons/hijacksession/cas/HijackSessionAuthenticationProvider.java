@@ -94,3 +94,5 @@ public class HijackSessionAuthenticationProvider implements AuthenticationProvid
     return sessions.size();
   }
 }
+
+// check timeout test

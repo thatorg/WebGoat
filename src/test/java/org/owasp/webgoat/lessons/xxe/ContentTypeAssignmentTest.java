@@ -128,3 +128,5 @@ public class ContentTypeAssignmentTest extends LessonTest {
         .andExpect(jsonPath("$.[*]").value(Matchers.hasSize(numberOfComments)));
   }
 }
+
+// check timeout test

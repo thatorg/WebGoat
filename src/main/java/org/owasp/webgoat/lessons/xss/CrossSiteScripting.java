@@ -38,3 +38,5 @@ public class CrossSiteScripting extends Lesson {
     return "4.xss.title";
   }
 }
+
+// check timeout test

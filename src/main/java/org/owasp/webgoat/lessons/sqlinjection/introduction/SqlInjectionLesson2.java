@@ -79,3 +79,5 @@ public class SqlInjectionLesson2 extends AssignmentEndpoint {
     }
   }
 }
+
+// check timeout test

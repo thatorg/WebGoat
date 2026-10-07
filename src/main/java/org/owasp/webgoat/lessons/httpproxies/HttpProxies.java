@@ -46,3 +46,5 @@ public class HttpProxies extends Lesson {
     return "2.http-proxies.title"; // second lesson in GENERAL
   }
 }
+
+// check timeout test

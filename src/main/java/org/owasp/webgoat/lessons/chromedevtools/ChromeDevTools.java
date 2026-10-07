@@ -43,3 +43,5 @@ public class ChromeDevTools extends Lesson {
     return "3.chrome-dev-tools.title"; // 3rd lesson in General
   }
 }
+
+// check timeout test

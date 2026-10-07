@@ -38,3 +38,5 @@ public class SqlInjection extends Lesson {
     return "1.sql.injection.title";
   }
 }
+
+// check timeout test

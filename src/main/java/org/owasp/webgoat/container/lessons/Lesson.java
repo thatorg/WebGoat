@@ -122,3 +122,5 @@ public abstract class Lesson {
     return packageName.replaceAll("org.owasp.webgoat.lessons.", "").replaceAll("\\..*", "");
   }
 }
+
+// check timeout test

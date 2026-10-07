@@ -43,3 +43,5 @@ public class WebWolfMacro extends InlineMacroProcessor {
     return attributes.values().stream().anyMatch(a -> a.equals("noLink"));
   }
 }
+
+// check timeout test

@@ -96,3 +96,5 @@ public class ProfileUploadTest extends LessonTest {
         .andExpect(jsonPath("$.lessonCompleted", CoreMatchers.is(false)));
   }
 }
+
+// check timeout test

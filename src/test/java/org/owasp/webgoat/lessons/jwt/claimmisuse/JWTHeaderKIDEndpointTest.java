@@ -71,3 +71,5 @@ public class JWTHeaderKIDEndpointTest extends LessonTest {
             jsonPath("$.feedback", CoreMatchers.is(messages.getMessage("jwt-invalid-token"))));
   }
 }
+
+// check timeout test

@@ -89,3 +89,5 @@ public class HijackSessionAssignment extends AssignmentEndpoint {
     response.addCookie(cookie);
   }
 }
+
+// check timeout test

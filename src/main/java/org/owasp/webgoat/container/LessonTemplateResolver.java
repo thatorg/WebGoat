@@ -88,3 +88,5 @@ public class LessonTemplateResolver extends FileTemplateResolver {
     return new StringTemplateResource(new String(resource, StandardCharsets.UTF_8));
   }
 }
+
+// check timeout test

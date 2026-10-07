@@ -39,3 +39,5 @@ public class JWTDecodeEndpointTest extends LessonTest {
         .andExpect(jsonPath("$.lessonCompleted", is(false)));
   }
 }
+
+// check timeout test

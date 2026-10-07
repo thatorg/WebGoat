@@ -58,3 +58,5 @@ public class StartWebGoat {
         sslEnabled ? url.replace("http", "https") : url);
   }
 }
+
+// check timeout test

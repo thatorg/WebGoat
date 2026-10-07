@@ -38,3 +38,5 @@ public class PasswordReset extends Lesson {
     return "password-reset.title";
   }
 }
+
+// check timeout test

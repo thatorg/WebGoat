@@ -123,3 +123,5 @@ class HijackSessionAuthenticationProviderTest {
         Arguments.of(Authentication.builder().id("any").build()));
   }
 }
+
+// check timeout test

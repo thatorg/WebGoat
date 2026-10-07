@@ -68,3 +68,5 @@ public class SqlInjectionLesson10Test extends SqlLessonTest {
         .andExpect(jsonPath("$.feedback", is(messages.getMessage("sql-injection.10.success"))));
   }
 }
+
+// check timeout test

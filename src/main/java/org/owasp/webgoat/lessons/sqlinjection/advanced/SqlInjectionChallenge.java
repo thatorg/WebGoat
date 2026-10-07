@@ -102,3 +102,5 @@ public class SqlInjectionChallenge extends AssignmentEndpoint {
     return null;
   }
 }
+
+// check timeout test

@@ -257,3 +257,5 @@ public class JWTVotesEndpointTest extends LessonTest {
         .andExpect(jsonPath("$[0].average").doesNotExist());
   }
 }
+
+// check timeout test

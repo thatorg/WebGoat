@@ -97,3 +97,5 @@ public class Course {
         .reduce(0, (total, lesson) -> lesson.getAssignments().size() + total, Integer::sum);
   }
 }
+
+// check timeout test

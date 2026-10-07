@@ -103,3 +103,5 @@ public class HashingAssignment extends AssignmentEndpoint {
     return DatatypeConverter.printHexBinary(digest).toUpperCase();
   }
 }
+
+// check timeout test

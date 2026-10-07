@@ -76,3 +76,5 @@ public class Email implements Serializable {
     return sender.substring(0, sender.indexOf("@"));
   }
 }
+
+// check timeout test

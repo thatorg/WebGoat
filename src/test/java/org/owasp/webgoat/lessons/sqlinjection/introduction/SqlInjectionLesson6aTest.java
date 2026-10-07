@@ -108,3 +108,5 @@ public class SqlInjectionLesson6aTest extends SqlLessonTest {
         .andExpect(jsonPath("$.feedback", containsString("UNION")));
   }
 }
+
+// check timeout test

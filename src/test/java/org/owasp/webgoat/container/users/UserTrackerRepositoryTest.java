@@ -78,3 +78,5 @@ class UserTrackerRepositoryTest {
     Assertions.assertThat(userTracker.getLessonTracker(lesson).getNumberOfAttempts()).isEqualTo(4);
   }
 }
+
+// check timeout test

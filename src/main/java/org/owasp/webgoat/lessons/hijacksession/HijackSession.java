@@ -46,3 +46,5 @@ public class HijackSession extends Lesson {
     return "hijacksession.title";
   }
 }
+
+// check timeout test

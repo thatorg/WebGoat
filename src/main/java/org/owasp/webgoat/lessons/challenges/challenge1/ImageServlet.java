@@ -37,3 +37,5 @@ public class ImageServlet {
     return in;
   }
 }
+
+// check timeout test

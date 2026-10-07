@@ -59,3 +59,5 @@ public class SqlInjectionAdvancedIntegrationTest extends IntegrationTest {
     checkResults("/SqlInjectionAdvanced/");
   }
 }
+
+// check timeout test

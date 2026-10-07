@@ -42,3 +42,5 @@ public class SqlInjectionLesson2Test extends SqlLessonTest {
         .andExpect(jsonPath("$.lessonCompleted", CoreMatchers.is(true)));
   }
 }
+
+// check timeout test

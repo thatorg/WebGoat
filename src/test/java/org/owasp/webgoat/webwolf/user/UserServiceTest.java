@@ -76,3 +76,5 @@ public class UserServiceTest {
     verify(mockUserRepository, times(1)).save(any(WebGoatUser.class));
   }
 }
+
+// check timeout test

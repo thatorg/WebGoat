@@ -47,3 +47,5 @@ public class ClientSideFilteringFreeAssignmentTest extends LessonTest {
         .andExpect(jsonPath("$.length()", CoreMatchers.is(12)));
   }
 }
+
+// check timeout test

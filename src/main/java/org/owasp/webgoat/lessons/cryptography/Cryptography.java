@@ -38,3 +38,5 @@ public class Cryptography extends Lesson {
     return "6.crypto.title"; // first lesson in general
   }
 }
+
+// check timeout test

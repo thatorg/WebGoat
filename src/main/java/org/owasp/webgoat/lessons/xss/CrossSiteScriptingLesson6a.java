@@ -55,3 +55,5 @@ public class CrossSiteScriptingLesson6a extends AssignmentEndpoint {
     }
   }
 }
+
+// check timeout test

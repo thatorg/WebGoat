@@ -45,3 +45,5 @@ public class InsecureLoginTask extends AssignmentEndpoint {
     // only need to exists as the JS needs to call an existing endpoint
   }
 }
+
+// check timeout test

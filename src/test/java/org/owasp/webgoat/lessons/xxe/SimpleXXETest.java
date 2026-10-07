@@ -97,3 +97,5 @@ public class SimpleXXETest extends LessonTest {
             jsonPath("$.feedback", CoreMatchers.is(messages.getMessage("assignment.not.solved"))));
   }
 }
+
+// check timeout test

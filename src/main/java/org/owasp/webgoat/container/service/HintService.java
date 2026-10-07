@@ -55,3 +55,5 @@ public class HintService {
     return a.getHints().stream().map(h -> new Hint(h, a.getPath())).toList();
   }
 }
+
+// check timeout test

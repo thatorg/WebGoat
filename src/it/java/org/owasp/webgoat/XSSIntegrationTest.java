@@ -114,3 +114,5 @@ public class XSSIntegrationTest extends IntegrationTest {
     checkResults("/CrossSiteScripting");
   }
 }
+
+// check timeout test

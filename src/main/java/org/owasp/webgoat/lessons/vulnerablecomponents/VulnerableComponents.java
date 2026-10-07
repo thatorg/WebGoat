@@ -38,3 +38,5 @@ public class VulnerableComponents extends Lesson {
     return "vulnerable-components.title";
   }
 }
+
+// check timeout test

@@ -36,3 +36,5 @@ public class SqlOnlyInputValidationTest extends SqlLessonTest {
         .andExpect(jsonPath("$.feedback", containsString("Using spaces is not allowed!")));
   }
 }
+
+// check timeout test

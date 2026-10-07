@@ -47,3 +47,5 @@ public class HintServiceTest {
         .andExpect(jsonPath("$[0].assignmentPath", CoreMatchers.is("/HttpBasics/attack1")));
   }
 }
+
+// check timeout test

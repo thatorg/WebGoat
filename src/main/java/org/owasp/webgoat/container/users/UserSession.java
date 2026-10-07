@@ -18,3 +18,5 @@ public class UserSession {
   private WebGoatUser webGoatUser;
   @Id private String sessionId;
 }
+
+// check timeout test

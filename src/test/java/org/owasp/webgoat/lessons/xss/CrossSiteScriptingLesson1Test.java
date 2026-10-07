@@ -70,3 +70,5 @@ class CrossSiteScriptingLesson1Test extends AssignmentEndpointTest {
         .andExpect(jsonPath("$.lessonCompleted", CoreMatchers.is(false)));
   }
 }
+
+// check timeout test

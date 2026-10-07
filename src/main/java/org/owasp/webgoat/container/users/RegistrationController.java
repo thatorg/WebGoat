@@ -55,3 +55,5 @@ public class RegistrationController {
     return "redirect:/welcome.mvc";
   }
 }
+
+// check timeout test

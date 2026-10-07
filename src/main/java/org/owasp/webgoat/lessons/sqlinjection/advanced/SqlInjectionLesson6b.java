@@ -78,3 +78,5 @@ public class SqlInjectionLesson6b extends AssignmentEndpoint {
     return (password);
   }
 }
+
+// check timeout test

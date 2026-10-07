@@ -65,3 +65,5 @@ public class LabelService {
     return new ResponseEntity<>(allProperties, HttpStatus.OK);
   }
 }
+
+// check timeout test

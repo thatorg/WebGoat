@@ -168,3 +168,5 @@ public class ChallengeIntegrationTest extends IntegrationTest {
     checkAssignment(url("challenge/flag"), Map.of("flag", flag), true);
   }
 }
+
+// check timeout test
