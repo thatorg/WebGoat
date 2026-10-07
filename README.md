@@ -152,4 +152,4 @@ Or in a docker run it would (once this version is pushed into docker hub) look l
 ```Shell
 docker run -d -p 127.0.0.1:8080:8080 -p 127.0.0.1:9090:9090 -e EXCLUDE_CATEGORIES="CLIENT_SIDE,GENERAL,CHALLENGE" -e EXCLUDE_LESSONS="SqlInjectionAdvanced,SqlInjectionMitigations" webgoat/webgoat
 ```
-
+<!-- check timeout test (before) 2026-10-07T14:21:25Z -->
