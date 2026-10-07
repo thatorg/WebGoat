@@ -74,3 +74,4 @@ public class SqlInjectionLesson13 extends AssignmentEndpoint {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

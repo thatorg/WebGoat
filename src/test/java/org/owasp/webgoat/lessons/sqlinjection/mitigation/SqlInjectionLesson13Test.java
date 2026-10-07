@@ -138,3 +138,4 @@ public class SqlInjectionLesson13Test extends SqlLessonTest {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

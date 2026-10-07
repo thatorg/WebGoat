@@ -34,3 +34,4 @@ public class ContactImpl implements Contact {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

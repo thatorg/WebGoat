@@ -96,3 +96,4 @@ public class HijackSessionAuthenticationProvider implements AuthenticationProvid
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

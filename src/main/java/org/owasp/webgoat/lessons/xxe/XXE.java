@@ -41,3 +41,4 @@ public class XXE extends Lesson {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

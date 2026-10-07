@@ -50,3 +50,4 @@ public class ChromeDevToolsTest extends LessonTest {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

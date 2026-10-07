@@ -92,3 +92,4 @@ public abstract class AssignmentEndpoint implements Initializeable {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

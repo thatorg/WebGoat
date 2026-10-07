@@ -86,3 +86,4 @@ public class ShopEndpoint {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

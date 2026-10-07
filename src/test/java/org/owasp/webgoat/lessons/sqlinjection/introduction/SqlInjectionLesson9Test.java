@@ -120,3 +120,4 @@ public class SqlInjectionLesson9Test extends SqlLessonTest {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

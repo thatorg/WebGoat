@@ -91,3 +91,4 @@ public class HijackSessionAssignment extends AssignmentEndpoint {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

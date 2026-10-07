@@ -44,3 +44,4 @@ public class SqlInjectionLesson2Test extends SqlLessonTest {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

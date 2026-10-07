@@ -8,3 +8,4 @@ import org.springframework.context.annotation.Configuration;
 public class ParentConfig {}
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

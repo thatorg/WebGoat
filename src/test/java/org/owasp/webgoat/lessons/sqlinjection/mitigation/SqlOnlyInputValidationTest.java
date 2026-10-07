@@ -38,3 +38,4 @@ public class SqlOnlyInputValidationTest extends SqlLessonTest {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

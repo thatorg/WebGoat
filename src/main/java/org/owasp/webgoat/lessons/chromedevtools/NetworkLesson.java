@@ -62,3 +62,4 @@ public class NetworkLesson extends AssignmentEndpoint {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

@@ -23,3 +23,4 @@ public class Challenge1 extends Lesson {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

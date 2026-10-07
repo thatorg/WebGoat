@@ -135,3 +135,4 @@ public class SqlInjectionLesson5b extends AssignmentEndpoint {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

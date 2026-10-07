@@ -57,3 +57,4 @@ public class ProgressRaceConditionIntegrationTest extends IntegrationTest {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

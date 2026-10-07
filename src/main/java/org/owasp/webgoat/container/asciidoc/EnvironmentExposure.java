@@ -26,3 +26,4 @@ public class EnvironmentExposure implements ApplicationContextAware {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

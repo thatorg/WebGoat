@@ -78,3 +78,4 @@ public class DOMCrossSiteScriptingTest extends AssignmentEndpointTest {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

@@ -36,3 +36,4 @@ public class LessonConnectionInvocationHandler implements InvocationHandler {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

@@ -213,3 +213,4 @@ public class CIAQuizTest extends LessonTest {
 } // end class
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

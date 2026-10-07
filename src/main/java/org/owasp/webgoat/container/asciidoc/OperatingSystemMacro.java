@@ -25,3 +25,4 @@ public class OperatingSystemMacro extends InlineMacroProcessor {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

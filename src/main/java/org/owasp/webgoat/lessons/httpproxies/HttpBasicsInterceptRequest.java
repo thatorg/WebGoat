@@ -59,3 +59,4 @@ public class HttpBasicsInterceptRequest extends AssignmentEndpoint {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

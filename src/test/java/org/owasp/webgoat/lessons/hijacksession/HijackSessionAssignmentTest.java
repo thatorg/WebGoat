@@ -106,3 +106,4 @@ class HijackSessionAssignmentTest extends AssignmentEndpointTest {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

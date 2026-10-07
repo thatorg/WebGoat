@@ -8,3 +8,4 @@ import org.springframework.context.annotation.PropertySource;
 public class WebGoatApplication {}
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

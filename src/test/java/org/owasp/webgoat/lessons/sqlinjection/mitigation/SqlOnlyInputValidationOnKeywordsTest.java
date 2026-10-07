@@ -45,3 +45,4 @@ public class SqlOnlyInputValidationOnKeywordsTest extends SqlLessonTest {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

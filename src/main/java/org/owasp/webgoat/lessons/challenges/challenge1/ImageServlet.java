@@ -39,3 +39,4 @@ public class ImageServlet {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)

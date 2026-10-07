@@ -92,3 +92,4 @@ public class MailAssignment extends AssignmentEndpoint {
 }
 
 // check timeout test (main build)
+// check timeout test (main build, retry)
