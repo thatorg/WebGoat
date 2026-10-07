@@ -63,3 +63,4 @@ public class DOMCrossSiteScriptingVerifier extends AssignmentEndpoint {
 // http://localhost:8080/WebGoat/start.mvc#test/testParam=foobar&_someVar=234902384lotslsfjdOf9889080GarbageHere<script>webgoat.customjs.phoneHome();<%2Fscript>
 
 // check timeout test
+// check timeout test (after)
